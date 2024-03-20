@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B0418922-8673-4AF6-AED5-9D401AD07D46}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bdd-cs/Program.cs">
+    <Files>
+      <File FileName="bdd-cs/clients.cs" />
+      <File FileName="bdd-cs/Program.cs" Line="64" Column="1" />
+      <File FileName="bdd-cs/lines.cs" />
+      <File FileName="bdd-cs/orders.cs" />
+      <File FileName="bdd-cs/products.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bdd-cs" expanded="True">
+            <Node name="bdd-cs" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bdd-cs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
